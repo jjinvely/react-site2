@@ -36,10 +36,15 @@
   background: #fff;
   display: block;
   padding: 5px;
+  position: relative;
 }
 .icon li a img {
-  width: 40px;
-  height: 40px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .footer_info {

@@ -1,9 +1,9 @@
 import React from 'react';
-import Sns1 from '../assets/img/icon1.svg';
-import Sns2 from '../assets/img/icon2.svg';
-import Sns3 from '../assets/img/icon3.svg';
-import Sns4 from '../assets/img/icon4.svg';
-import Sns5 from '../assets/img/icon5.svg';
+import Sns1 from '../assets/img/icon1.png';
+import Sns2 from '../assets/img/icon2.png';
+import Sns3 from '../assets/img/icon3.png';
+import Sns4 from '../assets/img/icon4.png';
+import Sns5 from '../assets/img/icon5.png';
 
 function Footer() {
   return (
